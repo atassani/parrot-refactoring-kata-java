@@ -1,0 +1,6 @@
+http://www.meetup.com/Barcelona-Software-Craftsmanship/events/232252885/
+https://github.com/emilybache/Parrot-Refactoring-Kata
+https://github.com/trikitrok/parrot-refactoring-kata-java/
+https://github.com/alvarogarcia7/java-parent/blob/master/pom.xml
+http://refactoring.com/catalog/replaceConditionalWithPolymorphism.html
+
